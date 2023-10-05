@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @SafhyraRipardo
 - 👀 I’m interested in learning
-- 🌱 I’m currently learning programing
-- 💞️ I’m looking to collaborate on knowing more
+- 🌱 I’m currently studying systems analysis and development
 - 📫 How to reach me safhyraripardo@gmail.com
 
 <!---
